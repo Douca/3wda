@@ -1,0 +1,23 @@
+{
+  // "DBPostgres": {
+  //   "host": "127.0.0.1",
+  //   "port": 5432,
+  //   "database": "datalytics",
+  //   "user": "postgres",
+  //   "password": "postgres",
+  //   "ssl": false
+  // },
+  "DBMongo": "mongodb://admin:admin123@ds040837.mlab.com:40837/3wda",
+  // "attemptsNumber": 5,
+  // "initialBalance": 100000,
+  // "price": {
+  //   "x8": 10,
+  //   "x4": 20,
+  //   "x2": 30,
+  //   "x1": 40
+  // },
+  "tokenTimeOut": 28800,
+  "Secret": "users authentication secret"
+  // "email": "datalyticsgis@gmail.com",
+  // "password": "datalytics123"
+}
